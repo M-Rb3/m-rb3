@@ -1,11 +1,46 @@
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" height="300px" style="object-fit:cover;" alt="Neon Anime Coding Banner">
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/403636620504596480) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m_rabie1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-rb3) 
+<h1 align="center">Hi 👋, I'm Mohamed (M-Rb3)</h1>
+<p align="center">
+  <b>Full-Stack Dev • AI Enthusiast • Blockchain Builder • Gamer • Anime Fan • Outdoor Explorer</b>  
+</p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-# 📊 GitHub Stats:
+---
+
+## ⚡ About Me
+<img align="right" alt="Coding Anime" width="250" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+
+- 🧠 Building **AI-powered apps** and bots  
+- ⛓ Working with **EVM chains** & **Solana**  
+- 🎮 Gaming & anime addict — mix of **Shōnen energy** + **dev mode**  
+- 🌍 Enjoy hiking, photography, and outdoor adventures  
+- 🚀 Always grinding new tech stacks  
+
+---
+
+## 🌐 Socials
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/403636620504596480)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m_rabie1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-rb3)  
+
+---
+
+## 🛠 Tech Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,nodejs,react,nextjs,express,graphql,mongodb,python,django,flask,postgres,firebase,heroku,solidity,rust,solana,git,linux,docker" />
+</p>
+
+
+---
+
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=M-Rb3&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=M-Rb3&theme=dark&hide_border=false)<br/>
 
+---
 
+## ✨ Motto
+> *"Code sharp. Play hard. Explore more."* 🌄💻
