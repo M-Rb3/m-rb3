@@ -11,7 +11,7 @@
 ---
 
 ## ⚡ About Me
-<img align="right" alt="Coding Anime" width="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
+<img align="right" alt="Coding Anime" width="120" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
 - 🧠 Building **AI-powered apps** and bots  
 - ⛓ Working with **EVM chains** & **Solana**  
