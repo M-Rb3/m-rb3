@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" height="300px" style="object-fit:cover;" alt="Neon Anime Coding Banner">
+  <img src="https://blob.sentx.io/media/web/sentx-nights-home-540.gif" width="100%" height="300px" style="object-fit:cover;" alt="Neon Anime Coding Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohamed (M-Rb3)</h1>
