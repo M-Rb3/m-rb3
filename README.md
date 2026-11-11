@@ -24,7 +24,8 @@
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/403636620504596480)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m_rabie1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-rb3)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/m-rb3)
+[![GitHub (2nd account)](https://img.shields.io/badge/GitHub-m--elkhamisy-181717?logo=github&logoColor=white)](https://github.com/m-elkhamisy)  
 
 ---
 
@@ -37,8 +38,8 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=M-Rb3&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=M-Rb3&theme=dark&hide_border=false)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-Rb3&theme=github_dark)<br/>
+![](https://streak-stats.demolab.com/?user=M-Rb3&theme=dark&hide_border=false)<br/>
 
 ---
 
